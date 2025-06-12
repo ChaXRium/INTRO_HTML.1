@@ -47,7 +47,7 @@
             <a href="https://www.nsbm.ac.lk/"><font size=100>NSBM site link</a>
         </p>
         <p align="center">
-            <a href="https://www.nsbm.ac.lk/"><img src="Pictures/b.jpeg"></a>
+            <a href="https://www.nsbm.ac.lk/"><img src="b.jpeg"></a>
         </p>
         <img src="a.jpg" width=100% height=40%>
     </body>
