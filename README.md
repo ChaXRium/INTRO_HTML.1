@@ -49,6 +49,6 @@
         <p align="center">
             <a href="https://www.nsbm.ac.lk/"><img src="Pictures/b.jpeg"></a>
         </p>
-        <img src="Pictures/a.jpg" width=100% height=40%>
+        <img src="a.jpg" width=100% height=40%>
     </body>
 </html>
